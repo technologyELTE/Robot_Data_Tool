@@ -21,7 +21,7 @@ class Tb3(Node):
         # Example for print message from scan topic
         print(msg.ranges[0])
         
-        # Put your motion control code here
+        # Put your code here
     def pose_callback(self, msg):
         # Put your code here
 		
