@@ -9,7 +9,9 @@
 
 # Taks
 1. Using SLAM technique to scan the environment
-2. Robot Motion Control to desired starting point
-3. Determine the goal point
-4. Write the python program to control Turtlebot from the starting point to the goal point
-5. There will be an unknown obstacle between line of sight, the turtlebot should avoid the obstacle until it reaches the goal 
+2. Save the created map to ".yaml" file
+3. Place the robot in any position in the environment
+4. Manually or Automatic control the robot to desired starting point
+5. Determine the goal point
+6. Write the python program to control Turtlebot from the starting point to the goal point
+7. There will be an unknown obstacle between line of sight, the turtlebot should avoid the obstacle until it reaches the goal 
