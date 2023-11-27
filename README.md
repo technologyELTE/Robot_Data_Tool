@@ -1,5 +1,6 @@
 # Turtle Sim Practice
 [Turtle Sim Tutorial](https://davesroboshack.com/the-robot-operating-system-ros/ros2-topics/)
+You can simulate your python program with this simulation. You don't need to have a real Turtlebot3 at all time.
 
 # Turtlebot3 Motion Control
 1. Clone the repository for getting the current position and orientation of the Turtlebot [Robot_Data_Tool](https://github.com/phuwanat-vg/robot_data_tool.git)
