@@ -11,9 +11,11 @@ You can simulate your python program with this simulation. You don't need to hav
 # Turtlebot3 Motion Control
 1. Clone the repository for getting the current position and orientation of the Turtlebot [Robot_Data_Tool](https://github.com/phuwanat-vg/robot_data_tool.git)
 
+   **cd ~/colcon_ws/src**
+
    **git clone https://github.com/phuwanat-vg/robot_data_tool.git**
    
-   **cd colcon_ws**
+   **cd ~/colcon_ws**
    
    **colcon build**
 3. run the package with: **ros2 run robot_data_tool map_pose_provider**
