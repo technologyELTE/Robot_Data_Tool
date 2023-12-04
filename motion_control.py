@@ -14,7 +14,7 @@ class Tb3(Node):
 	# Create Subscriber Node for scan topic
 	# Put your code here
 	
-	# Create Subscriber Node for robot_map_pose/euler topic (Vector3)
+	# Create Subscriber Node for robot_map_pose/odom topic (Vector3)
 	# Put your code here
 
     def scan_callback(self, msg):
