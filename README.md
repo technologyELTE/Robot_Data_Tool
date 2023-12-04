@@ -31,8 +31,9 @@ You can simulate your python program with this simulation. You don't need to hav
 
 # Check Points
 1. Using SLAM technique to scan the environment and save the created map to ".yaml" file
-2. Place the robot in any position in the environment and subscribe the current position of the robot
-3. Manually control the robot by python programming
-4. Automatically control the robot to desired goal point
+2. Run the **Navigation package** with a created map and run the **robot_data_tool** package, respectively
+3. Place the robot in any position in the environment and subscribe the current position of the robot
+4. Manually control the robot by python programming
+5. Automatically control the robot to desired goal point
    
 Note: Write the python program to control Turtlebot from the starting point to the goal point
