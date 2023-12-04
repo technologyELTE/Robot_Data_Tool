@@ -9,11 +9,10 @@ You can simulate your python program with this simulation. You don't need to hav
 3. Download motion_control.py [download here](https://github.com/technologyELTE/Robot_Data_Tool/blob/main/motion_control.py)
 4. write a python program to control the Turtlebot3 Buuger/Waffle to complete the tasks with your own idea
 
-# Taks
-1. Using SLAM technique to scan the environment
-2. Save the created map to ".yaml" file
-3. Place the robot in any position in the environment
-4. Manually or Automatic control the robot to desired starting point
-5. Determine the goal point
-6. Write the python program to control Turtlebot from the starting point to the goal point
-7. There will be an unknown obstacle between line of sight, the turtlebot should avoid the obstacle until it reaches the goal 
+# Check Points
+1. Using SLAM technique to scan the environment and save the created map to ".yaml" file
+2. Place the robot in any position in the environment and subscribe the current position of the robot
+3. Manually control the robot by python programming
+4. Automatically control the robot to desired goal point
+   
+Note: Write the python program to control Turtlebot from the starting point to the goal point
