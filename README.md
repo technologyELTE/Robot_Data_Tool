@@ -30,9 +30,9 @@ You can simulate your python program with this simulation. You don't need to hav
 6. write a python program to control the Turtlebot3 Buuger/Waffle to complete the tasks with your own idea
 
 # Check Points
-[]. Using SLAM technique to scan the environment and save the created map to ".yaml" file
-[]. Place the robot in any position in the environment and subscribe the current position of the robot
-[]. Manually control the robot by python programming
-[]. Automatically control the robot to desired goal point
+1. Using SLAM technique to scan the environment and save the created map to ".yaml" file
+2. Place the robot in any position in the environment and subscribe the current position of the robot
+3. Manually control the robot by python programming
+4. Automatically control the robot to desired goal point
    
 Note: Write the python program to control Turtlebot from the starting point to the goal point
